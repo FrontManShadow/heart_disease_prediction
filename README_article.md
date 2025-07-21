@@ -48,9 +48,9 @@ _Авторы: Victor Chang, Vallabhaneni Rupa Bhavani, Ariel Qianwen Xu, MA Hos
 
 ---
 
-## 📚 Источник
+## Источник
 
-Chang, V., Bhavani, V. R., Xu, A. Q., & Hossain, M. A.  
+[Chang, V., Bhavani, V. R., Xu, A. Q., & Hossain, M. A.  
 **"An artificial intelligence model for heart disease detection using machine learning algorithms."**  
-(2023)
+(2023)](https://www.sciencedirect.com/science/article/pii/S2772442522000016)
 
