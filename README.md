@@ -102,7 +102,7 @@
 
 ---
 
-## Ссылки
+## Ссылка на датасеты
 
-- [Ссылка на данные](https://www.kaggle.com/competitions/tech-weekend-data-science-hackathon/data)
+- [Датасеты (train/test) доступны по ссылке](https://www.kaggle.com/competitions/tech-weekend-data-science-hackathon/data)
 
