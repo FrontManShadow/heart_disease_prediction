@@ -32,10 +32,10 @@
 - Проанализированы наиболее важные признаки (`thal`, `chest pain`, `oldpeak`)
 
 ### Heatmap корреляции
-
+![Heatmap](heatmap.png)
 
 ### Boxplot по ключевым признакам
-
+![Boxplot](boxplot.png)
 
 ---
 
@@ -53,8 +53,7 @@
 ### Нейронная сеть
 - Accuracy и Loss по эпохам
 
-![Accuracy NN](accuracy_nn.png)
-![Loss NN](loss_nn.png)
+![Accuracy and Loss](neuralnetwork.png)
 
 ---
 
